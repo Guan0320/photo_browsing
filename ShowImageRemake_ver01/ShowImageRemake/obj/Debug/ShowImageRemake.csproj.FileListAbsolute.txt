@@ -1,0 +1,185 @@
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\Users\林冠廷\source\repos\新產出\ShowImageRemake - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ButtonStyle.baml
+C:\Users\林冠廷\Desktop\c#\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ScrollViewerStyle.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ButtonStyle.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ScrollViewerStyle.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\D槽預備\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ButtonStyle.baml
+C:\Users\林冠廷\Desktop\程式設計版本控制\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ScrollViewerStyle.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe.config
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\bin\Debug\ShowImageRemake.pdb
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.AssemblyReference.cache
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ButtonStyle.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\ScrollViewerStyle.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\TitleBarToggleButtonStyle.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.cache
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake_MarkupCompile.lref
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\App.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\MainWindow.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\ApplePage.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Pages\OneImagePage.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\SettingWindow.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\Styles\WindowStyle.baml
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.g.resources
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.Properties.Resources.resources
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.GenerateResource.cache
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.csproj.CoreCompileInputs.cache
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.exe
+C:\Users\林冠廷\Desktop\ShowImageRemake - 複製 - 複製 - 複製\ShowImageRemake\obj\Debug\ShowImageRemake.pdb
